@@ -88,7 +88,7 @@
         "@vue/compiler-sfc": "^3.2.33",
         "babel-plugin-import": "^1.13.5",
         "cross-env": "^7.0.3",
-        "jest": "^25.4.0",
+        "jest": "^27.5.1",
         "mini-types": "*",
         "miniprogram-api-typings": "*",
         "postcss-comment": "^2.0.0",
